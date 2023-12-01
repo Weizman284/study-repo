@@ -1,1 +1,0 @@
-SELECT * FROM laptop_price
